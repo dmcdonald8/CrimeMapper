@@ -1,0 +1,14 @@
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\CrimeMapperUnitTests.dll
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\CrimeMapperUnitTests.pdb
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\MappingTestApp.exe
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Microsoft.Maps.SpatialToolbox.WPF.dll
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Microsoft.Maps.SpatialToolbox.Core.dll
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\MappingTestApp.pdb
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Microsoft.Maps.SpatialToolbox.WPF.pdb
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\bin\Debug\Microsoft.Maps.SpatialToolbox.Core.pdb
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\obj\Debug\CrimeMapperUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\obj\Debug\CrimeMapperUnitTests.dll
+C:\Users\Dean\Google Drive\C# Workspace\MappingTestApp\CrimeMapperUnitTests\obj\Debug\CrimeMapperUnitTests.pdb
